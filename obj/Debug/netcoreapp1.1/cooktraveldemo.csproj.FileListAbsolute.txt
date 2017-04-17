@@ -1,0 +1,8 @@
+/Users/mikepowers/Desktop/cooktraveldemo/bin/Debug/netcoreapp1.1/cooktraveldemo.deps.json
+/Users/mikepowers/Desktop/cooktraveldemo/bin/Debug/netcoreapp1.1/cooktraveldemo.runtimeconfig.json
+/Users/mikepowers/Desktop/cooktraveldemo/bin/Debug/netcoreapp1.1/cooktraveldemo.runtimeconfig.dev.json
+/Users/mikepowers/Desktop/cooktraveldemo/bin/Debug/netcoreapp1.1/cooktraveldemo.dll
+/Users/mikepowers/Desktop/cooktraveldemo/bin/Debug/netcoreapp1.1/cooktraveldemo.pdb
+/Users/mikepowers/Desktop/cooktraveldemo/obj/Debug/netcoreapp1.1/cooktraveldemo.AssemblyInfo.cs
+/Users/mikepowers/Desktop/cooktraveldemo/obj/Debug/netcoreapp1.1/cooktraveldemo.dll
+/Users/mikepowers/Desktop/cooktraveldemo/obj/Debug/netcoreapp1.1/cooktraveldemo.pdb
